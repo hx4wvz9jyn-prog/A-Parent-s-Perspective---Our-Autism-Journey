@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Our Quiet Fight</title>
+  <meta name="description" content="An honest look at the emotional, physical, and financial struggles of being a single parent raising two young children on the autism spectrum.">
+  <style>
+    body {
+      font-family: "Segoe UI", Arial, sans-serif;
+      margin: 0;
+      background-color: #f1f5f9;
+      color: #1f2933;
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #2563eb, #1e40af);
+      color: white;
+      padding: 3rem 1.5rem;
+      text-align: center;
+    }
+    header h1 {
+      margin-bottom: 0.5rem;
+      font-size: 2.2rem;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 2.5rem 1.5rem;
+    }
+    .story {
+      background: white;
+      padding: 2rem;
+      margin-bottom: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+    }
+    h2 {
+      color: #1e40af;
+      margin-top: 0;
+    }
+    footer {
+      background-color: #0f172a;
+      color: #e5e7eb;
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Our Quiet Fight</h1>
+  <p>Raising two autistic children alone — the part no one sees</p>
+  <p><strong>https://singleparentautismjourney.example</strong></p>
+</header>
+
+<section>
+
+  <div class="story">
+    <h2>This Is Our Life</h2>
+    <p>
+      Every day begins before the sun rises. Not because I want it to — but because
+      my children need consistency, patience, and calm before the world feels safe
+      to them. I am their parent, their advocate, their comfort, and their constant.
+      I do this alone.
+    </p>
+  </div>
+
+  <div class="story">
+    <h2>The Weight You Don’t See</h2>
+    <p>
+      Therapy schedules. School meetings. Progress reports. Sensory overload.
+      Meltdowns that come from fear, not defiance. I carry the planning, the worrying,
+      the hoping, and the heartbreak quietly — because there’s no one to tag in when
+      I’m exhausted.
+    </p>
+  </div>
+
+  <div class="story">
+    <h2>Financial Survival</h2>
+    <p>
+      Being a single parent to two autistic children often means choosing between
+      stability and availability. Specialized care costs more. Working less means
+      earning less. Yet their needs cannot wait, and neither can the bills.
+    </p>
+  </div>
+
+  <div class="story">
+    <h2>Loneliness in Public</h2>
+    <p>
+      People see behaviors, not diagnoses. They see disruption, not overwhelm.
+      Judgment arrives faster than compassion. Sometimes the hardest place to be
+      is surrounded by others.
+    </p>
+  </div>
+
+  <div class="story">
+    <h2>Why I Keep Going</h2>
+    <p>
+      I keep going because my children trust me completely. Because every small
+      victory — a word spoken, a transition handled, a calm moment earned — is
+      enormous in our world. This journey is heavy, but it is filled with love.
+    </p>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2025 Our Quiet Fight</p>
+  <p>Website URL: https://singleparentautismjourney.example</p>
+</footer>
+
+</body>
+</html>
